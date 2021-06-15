@@ -1,5 +1,8 @@
 # Regression Analysis assignment
 
+
+![Yen Photo](Images/unit-10-readme-photo.png)
+
 *Time Series Analysis
 
 The 5 day future price forecast suggest a slow upward trend and the GARCH models indicates low volatility forecast with a slight upward trend as well. The decision to buy yen would depend on the trading strategy one intends to implement and whether they are buying spot or options. 
